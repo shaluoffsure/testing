@@ -1,0 +1,11 @@
+{
+  "name": "gitesting",
+  "version": "1.0.0",
+  "description": "kuch ni",
+  "main": "index.js",
+  "scripts": {
+    "test": "reer"
+  },
+  "author": "shalu",
+  "license": "ISC"
+}
